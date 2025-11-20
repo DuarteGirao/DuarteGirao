@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Duarte Girão  
 
-<!--
-**DuarteGirao/DuarteGirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante do 2.º ano – Licenciatura em Engenharia Informática  
+### 🔧 Área de interesse: Desenvolvimento, Redes, Sistemas e Tecnologias Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre mim
+- 🎓 Estudante na **ESTGV – IP Viseu**
+- 💻 Apaixonado por programação e novas tecnologias  
+- 🌱 Atualmente a aprender: **HTML, CSS, JavaScript, Git, Redes de Computadores**
+- 🎯 Objetivo: evoluir como programador e construir cada vez melhores projetos  
+- 📫 Contacto académico: `pv31525@alunos.estgv.ipv.pt`
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=DuarteGirao&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteGirao&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projetos em Destaque
+- 🔹 [ProjetoA1](https://github.com/DuarteGirao/ProjetoA1) – Trabalho académico (HTML/CSS)
+
+---
+
+## 📈 Atividade
+> Sempre a aprender, praticar e evoluir — cada commit conta!
+
+---
+
+## 🤝 Conecta-te comigo
+Se quiseres trocar ideias, tirar dúvidas sobre programação, redes ou Git, estou sempre disponível para aprender e ajudar!
+
