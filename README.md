@@ -32,11 +32,17 @@
 
 ## 📊 Atividade GitHub
 
-### Contribution Graph
-![Duarte's GitHub Activity](https://github.com/DuarteGirao.png?tab=overview)
-
 ### Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=DuarteGirao&theme=tokyonight)
+
+### Último Commit
+![Último Commit](https://img.shields.io/github/last-commit/DuarteGirao/ProjetoA1?style=for-the-badge)
+
+### Repositórios Públicos
+![Repos](https://img.shields.io/github/repos/DuarteGirao?style=for-the-badge)
+
+### Seguidores
+![Followers](https://img.shields.io/github/followers/DuarteGirao?style=for-the-badge)
 
 ---
 
