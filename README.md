@@ -30,10 +30,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=DuarteGirao&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 Atividade GitHub
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteGirao&layout=compact&theme=tokyonight&count_private=true)
+### Contribution Graph
+![Duarte's GitHub Activity](https://github.com/DuarteGirao.png?tab=overview)
+
+### Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=DuarteGirao&theme=tokyonight)
 
 ---
 
@@ -49,4 +52,3 @@
 
 ## 🤝 Conecta-te comigo
 Se quiseres trocar ideias, tirar dúvidas sobre programação, redes ou Git, estou sempre disponível para aprender e ajudar!
-
