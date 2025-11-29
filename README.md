@@ -31,9 +31,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=DuarteGirao&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DuarteGirao&show_icons=true&theme=tokyonight&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteGirao&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteGirao&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
