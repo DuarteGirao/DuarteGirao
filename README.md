@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Duarte Girão  <br><br>🎓 Estudante do 2.º ano – Licenciatura em Engenharia Informática  <br>🔧 Área de interesse: Desenvolvimento, Redes, Sistemas e Tecnologias Web  <br><br>📌 Sobre mim<br>- 🎓 Estudante na ESTGV – IP Viseu<br>- 💻 Apaixonado por programação e novas tecnologias  <br>- 🌱 Atualmente a aprender: HTML, CSS, JavaScript, Git, Redes de Computadores<br>- 🎯 Objetivo: evoluir como programador e construir cada vez melhores projetos  
+👋 Olá! Eu sou o Duarte Girão  <br><br>🎓 Estudante do 3.º ano – Licenciatura em Engenharia Informática  <br>🔧 Área de interesse: Desenvolvimento, Redes, Sistemas e Tecnologias Web  <br><br>📌 Sobre mim<br>- 🎓 Estudante na ESTGV – IP Viseu<br>- 💻 Apaixonado por programação e novas tecnologias  <br>- 🌱 Atualmente a aprender: HTML, CSS, JavaScript, Git, Redes de Computadores<br>- 🎯 Objetivo: evoluir como programador e construir cada vez melhores projetos  
 
 
 ## 🌐 Socials:
